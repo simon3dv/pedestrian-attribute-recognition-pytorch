@@ -7,10 +7,9 @@
 
 ## Visualization
 ![Visualization](https://github.com/simon3dv/pedestrian-attribute-recognition-pytorch/blob/master/doc/img/3.png)
-
+See [here](https://github.com/simon3dv/pedestrian-attribute-recognition-pytorch/tree/master/doc/peta_result_visulization) for more Visualization
 ## Results
 ![Results](https://github.com/simon3dv/pedestrian-attribute-recognition-pytorch/blob/master/doc/img/1.png)
-
 ## Preparation
 <font face="Times New Roman" size=4>
 
