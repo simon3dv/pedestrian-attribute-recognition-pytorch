@@ -1,5 +1,16 @@
 # Implement of Deep Multi-attribute Recognition model under ResNet50 backbone network
 
+##
+
+## Architecture
+![teaser](https://github.com/simon3dv/pedestrian-attribute-recognition-pytorch/tree/master/doc/img/2.png)
+
+## Visualization
+![teaser](https://github.com/simon3dv/pedestrian-attribute-recognition-pytorch/tree/master/doc/img/3.png)
+
+## Results
+![teaser](https://github.com/simon3dv/pedestrian-attribute-recognition-pytorch/tree/master/doc/img/1.png)
+
 ## Preparation
 <font face="Times New Roman" size=4>
 
