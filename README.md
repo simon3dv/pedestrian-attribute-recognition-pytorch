@@ -3,13 +3,13 @@
 ##
 
 ## Architecture
-![Architecture](https://github.com/simon3dv/pedestrian-attribute-recognition-pytorch/tree/master/doc/img/2.png)
+![Architecture](https://github.com/simon3dv/pedestrian-attribute-recognition-pytorch/blob/master/doc/img/2.png)
 
 ## Visualization
-![Visualization](https://github.com/simon3dv/pedestrian-attribute-recognition-pytorch/tree/master/doc/img/3.png)
+![Visualization](https://github.com/simon3dv/pedestrian-attribute-recognition-pytorch/blob/master/doc/img/3.png)
 
 ## Results
-![Results](https://github.com/simon3dv/pedestrian-attribute-recognition-pytorch/tree/master/doc/img/1.png)
+![Results](https://github.com/simon3dv/pedestrian-attribute-recognition-pytorch/blob/master/doc/img/1.png)
 
 ## Preparation
 <font face="Times New Roman" size=4>
