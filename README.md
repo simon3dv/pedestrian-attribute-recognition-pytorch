@@ -65,13 +65,26 @@
 
 </font>
 
-## Demo 
+## Demo for a single image
 <font face="Times New Roman" size=4>
 
    ```
    python script/experiment/demo.py
    ```
 
+</font>
+
+## Demo for images
+<font face="Times New Roman" size=4>
+
+   ```
+   python script/experiment/demo_all_images.py --input <images_dir> --output <save_dir>
+   ```
+for example,
+```
+python script/experiment/demo_all_images.py 
+--input dataset/peta/images --output dataset/peta/DeepMar_output
+```
 </font>
 
 ## Citation
